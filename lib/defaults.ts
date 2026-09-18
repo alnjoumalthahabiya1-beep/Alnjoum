@@ -45,7 +45,7 @@ export const DEFAULT_DATA: MenuData = {
     freeDeliveryOver: 300,
     minimumOrder: 0,
     serviceChargePercent: 0,
-    orderTypes: ["1", "takeaway", "dinein"],
+    orderTypes: ["delivery", "takeaway", "dinein"],
     requireName: true,
     requirePhone: true,
     requireAddress: true,
